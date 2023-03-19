@@ -1,0 +1,195 @@
+{
+  "header": {
+    "logo": {
+      "title": "Sola Jump",
+      "sub-title-2": "The best Jumper in The World"
+    },
+    "button": "Connect Solana"
+  },
+  "nav": {
+    "main": {
+      "menu-1": "Home",
+      "menu-2": "Team",
+      "menu-3": "Prizes",
+      "menu-4": "Game Demo"
+    },
+    "social": {
+      "discord": "Discord",
+      "twitter": "Twitter",
+      "opensea": "Opensea"
+    }
+  },
+  "pages": {
+    "login": {
+      "title": "Welcome to Login Pages"
+    },
+    "home": {
+      "title": "Genesis Collection",
+      "mint": "Mint Solana",
+      "line-5": "Mint Price : 2 Sol"
+
+    },
+    "PageNotFound": {
+      "title": "Page Not Found",
+      "line-1": "This page doesn't seem to exist.",
+      "line-2": "It looks like the link pointing here was faulty."
+    }
+  },
+  "client": {
+    "navbar": {
+      "buynerd": {
+        "title": "Buy $NERD",
+        "description1": "Pas de frais supplementaires",
+        "description2": "Estimated rate:" ,
+        "description3": "all this screen is an example" ,
+        "notes": "* 0,003$USD= 1 $NERD, for the player's Private Sale, you can start now using your $NERD in PvP Mode. There is a 1 month Cliff and a 1 month vesting time. Enjoy and welcome to the Nerd Fam."
+      }
+    },
+    "header": {
+
+      "freeplayer": {
+        "title": "FREE PLAYER",
+
+        "feature1": "Free To Play",
+        "feature2": "Free To Earn",
+        "feature3": "Contest",
+        "feature4": "PVP",
+        "feature5": "Stacking",
+        "feature6": "Rewards 90%",
+        "feature7": "Statistics",
+
+        "button1": "Get Your NFT Cartridge",
+        "button2": "LockBox:"
+      },
+
+      "nftplayer": {
+
+        "title": "NFT Player",
+
+        "feature1": "Welcome to your personnal Account",
+        "feature2": "PVP:",
+        "feature3": "Stacking:",
+
+        "button1": "Open Game",
+        "button2": "LockBox:"
+
+      }
+    },
+
+    "stats": {
+
+      "title": "STATISTICS",
+      "box1": "LEVEL",
+      "box2": "WINS",
+      "box3": "RANK POINTS"
+
+    },
+
+    "level": {
+      "title": "LEVEL" 
+    },
+
+    "leaderboard": {
+      "title": "PERSONNAL LEADERBOARD",
+      "column1": "RANK",
+      "column2": "SCORE",
+      "column3": "GAME",
+      "box": {
+        "title": "Your Global Leaderboard",
+        "description": "At MON xx/xx/2022 00:00:00,  you are at Xth of the global rank with xxx $NERDS winnings. Join more matches to lift up your rank and gain more prizes & rewards !",
+        "timeout": "Global League Ends: ",
+        "button": "Join more matches"
+      }
+    },
+
+    "match": {
+      "title": "MATCH HISTORY"
+    },
+
+    "asset": {
+      "title": "ASSETS ( coming soon )"
+    }
+  },
+  "footer": {
+    "column1": {
+      "title": "Charts",
+      "item1": "CFC",
+      "item2": "NFT Marketplace",
+      "item3": "$NERDS"
+    }, 
+
+    "column2": {
+      "title": "About Us",
+      "item1": "NERDpaper",
+      "item2": "Audit",
+      "item3": "Privacy policy"
+    },
+
+    "column3": {
+      "title": "Services",
+      "item1": "ETHSCAN",
+      "item2": "Staking",
+      "item3": "Contact us"
+    },
+
+    "column4": {
+      "title": "Join Us"
+    },
+
+    "copyright": "© 2022 Nerdgames. All rights reserved."
+  },"navbar":{"button":"Buy $NERD","buyNerd":
+  {"title":"Buy $NERD","note1":"No additional cost.","note2":"Estimated rate","footerNote":"* 0.001 $USD = 1 $NERD + 2,5% Exchange Fees , you can start now using your $NERD in PvP Mode, Tournaments, and in the Marketplace. Welcome to the Nerd Fam."}}
+  ,"profile":{"header":{"button1":"Modify profile","button2":"Public profile","statistics":{"games":"Games","subscription":"Subscription","subscriber":"Subscriber"},"button3":"BECOME A FOUNDER"},
+  "matchHistory":{"title":"Match history","dropdown":{"option1":"View All","option2":"View Less"}},
+  "gameTime":{"title":"Game Played","hourPlay":"% of game played","doughnutChart":"Total hours of play","lineChart":"Connection spike"},
+  "trophy":{"title":"My Trophies",
+  "bestPart":{"title":"Best part",
+  "time":"Best time","score":"Best score"},
+  "lastGame":{"title":"Latest games","time":"Latest time","score":"Latest score"}}},
+  "games":{"event":{"title":"OPEN WORLD","description":"Enter the RIFT"},
+  "benefit":
+    {"title":"My Benefit","button":"BECOME A FOUNDER","box1":"Free to play unlimited gaming","box2":"Free to play unlimited gaming","box3":"Rewards 90%","box4":"PVP","box5":"Statistics","box6":"Stacking","box7":"Contest"},
+    "library":{"title":"Game Library","button":"PLAY"}},
+    "social":
+      {"activity":{"title":"Activities"},
+      "leaderboard":{"title":"My Personnal LeaderBoard","search":"Search for a player...",
+      "table":{"header1":"Rank","header2":"Players","header3":"Mode","header4":"Score"}},
+      "request":{"title":"Friend Requests","button":"Accept"},
+      "friends":{"title":"Friends"}},
+      "asset":{"nft":{"title":"My NFTs N3RD","viewAll":"View All"},
+      "badges":{"title":"My Assets N3RD","viewAll":"View All","button":"Buy Now"},
+      "lockBox":{"title":"My Lock-Box","viewAll":"ViewAll"}},
+      "wallet":{"balance":{"title":"My $Nerd Wallet"},
+      "buyNerd":{ 
+        "title":"Buy $NERD",
+        "note1":"No additional cost.",
+        "note2":"Estimated rate",
+        "footerNote":"0.003 $USD = 1 $NERD, for the player's Private Sale, you can start now using your $NERD in PvP Mode. There is a 1 month vesting time. Enjoy and welcome to the Nerd Fam."},"connect":{"title":"Connect Your Wallet",
+        "browser":
+          { "title":"Browser","note":"Automatically detects your default browser wallet"},
+            "web":{"title":"Web","note":"Automatically detects your default web wallet"},
+            "hardware":{"title":"Hardware","note":"Automatically detects your default hardware wallet"},
+            "button":"Connect Wallet"},
+          "how":{"title":"How To Connect?",
+          "step1":"1. Download a wallet application.",
+          "step2":"2. Create your wallet account.",
+          "step3":"3. Keep a written record of your private key.",
+          "step4":"4. Finally, you can buy your $NERD!"},
+          "transaction":{"title":"All Transactions","viewAll":"View All"}},
+          "rewards":{"premium":{"title":"Nerd Box"},
+          "cta":{"title":"Get Founder Now!",
+          "description":"Become a premium now with as low as 650 $NERD to unlock more prizes & rewards!",
+          "button":"Go to Mint Page"}},
+          "sponsor":{"referral":{"title":"Referral Rewards","note":"Paid Weekly.","subTitle":"My Referrals","button":"Invite Friends"},
+          "sponsor":{"title":"Sponsorships","accept":"Accept","decline":"Decline","button":"Accept All"},
+          "cta1":
+            {"title":"Invite your friends, win together!","description":"When you refer a friend, you both earn 2% $NERD Bonus on their first purchase. Be the best $NERD Ambassador and gain an additional 2% as soon as your referrals have subscribed."},
+            "code1":{"title":"Invite your contacts and earn 4% of their purchases",
+            "description":"Share the link to earn more $NERD",
+            "copy":"Copy"},
+          "code2":
+            {"title":"Invite your loved ones and earn up to 4% on their purchases","description":"Share your link to earn $NERD","copy":"Copy"},
+          "cta2":
+            {"title":"Up to 6% of Bonus!","description":"Get rewarded with up to 6% bonus if you subscribe our premium plan now! Promo valid until 1st October 2022.","button":"Subscribe Now"}}
+  
+}
